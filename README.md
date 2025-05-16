@@ -1,8 +1,6 @@
 # Introducción a Kotlin: Problemas prácticos
 Alumno: Bryan Edgard Ochoa Trillo
 
-Código: 17200126
-
 ## 1. Impresión de mensajes
 ¿Puedes escribir una función main() que imprima estos mensajes en cuatro líneas separadas?
 ```
